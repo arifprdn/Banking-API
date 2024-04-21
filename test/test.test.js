@@ -9,8 +9,8 @@ testAccountIdentityType = "KTP"
 testAccountIdentityNumber = "1271110000000001"
 testAccountAddress = "Medan"
 testAccountBankName = "BNI"
-testAccountBankNumber = "5555555555555",
-    testAccountBalance = 150000
+testAccountBankNumber = "5555555555555"
+testAccountBalance = 150000
 
 let authToken = ""
 
